@@ -1,6 +1,6 @@
 # Ejercicios-CiclosForMq-DFD
 
-# Ejercicios 18/03/2026 - 25/03/2026 - DFD
+Ejercicios 18/03/2026 - 25/03/2026 - DFD
 
 ## Integrante
 
